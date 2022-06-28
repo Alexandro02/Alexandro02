@@ -1,7 +1,7 @@
 <h3 align="center"> Good Afternoon! </h3>
 <h1 align="center">Hi!, Im Alexandro Espino 😄</h1>
 <div align="center">
-    <i align="center">~ If it can be tought, it can be programmed. ~</i>
+    <i align="center">~ If it can be designed, it can be programmed ~</i>
 </div>
 
 ![Banner Git](https://github.com/Alexandro02/Alexandro02/blob/main/GhubCover.jpg)
@@ -54,8 +54,8 @@ export default Alex;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 
-<h3 align="left">🔧 Tools ⚙</h3>
-    <div align="left">
+<h3 align="center">🔧 Tools ⚙</h3>
+    <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="xd" **alt="xd" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
