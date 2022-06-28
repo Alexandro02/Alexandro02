@@ -3,7 +3,6 @@
 <div align="center">
     <i align="center">~ If it can be designed, it can be programmed ~</i>
 </div>
-<br>
 
 ![Banner Git](https://github.com/Alexandro02/Alexandro02/blob/main/GhubCover.jpg)
 
