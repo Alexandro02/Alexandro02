@@ -4,8 +4,7 @@
   "description": "Alexandro's README",
   "main": "index.js",
   "scripts": {
-    "update-readme": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "update-readme": "node index.js"
   },
   "repository": {
     "type": "git",
