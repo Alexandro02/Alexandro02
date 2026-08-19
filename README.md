@@ -37,7 +37,6 @@
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Alexandro02&show_icons=true&theme=tokyonight&hide_border=true" width="50%" />
-  <img src="https://streak-stats.demolab.com?user=Alexandro02&theme=tokyonight&hide_border=true" width="50%" />
 </div>
 
 ## - Contribution Snake
