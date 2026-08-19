@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/Neovim-2B2B2B?style=for-the-badge&logo=neovim&logoColor=57A143" />
   <img src="https://img.shields.io/badge/Claude Code-2B2B2B?style=for-the-badge&logo=claude&logoColor=D97757" />
   <img src="https://img.shields.io/badge/Figma-2B2B2B?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/SSMS-2B2B2B?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
+  <img src="https://img.shields.io/badge/Vercel-2B2B2B?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon-2B2B2B?style=for-the-badge&logo=neon&logoColor=00E599" />
+  <img src="https://img.shields.io/badge/Supabase-2B2B2B?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
 </p>
 
 ---
